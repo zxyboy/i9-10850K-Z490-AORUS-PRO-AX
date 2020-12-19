@@ -34,6 +34,30 @@
 # 一些截图
 
 ## 系统信息
+![系统信息](https://github.com/zxyboy/i9-10850K-Z490-AORUS-PRO-AX/blob/main/images/system-overview.png)
+![系统信息](https://github.com/zxyboy/i9-10850K-Z490-AORUS-PRO-AX/blob/main/images/system.png)
+
+## 存储信息
+![存储信息](https://github.com/zxyboy/i9-10850K-Z490-AORUS-PRO-AX/blob/main/images/disk.png)
+![存储信息](https://github.com/zxyboy/i9-10850K-Z490-AORUS-PRO-AX/blob/main/images/storage.png)
+## 内存信息
+![内存信息](https://github.com/zxyboy/i9-10850K-Z490-AORUS-PRO-AX/blob/main/images/memory.png)
+![内存信息](https://github.com/zxyboy/i9-10850K-Z490-AORUS-PRO-AX/blob/main/images/meory-detail.png)
+## 有线网卡信息
+![网卡信息](https://github.com/zxyboy/i9-10850K-Z490-AORUS-PRO-AX/blob/main/images/Network.png)
+![网卡信息](https://github.com/zxyboy/i9-10850K-Z490-AORUS-PRO-AX/blob/main/images/ethernet.png)
+## 无线网卡信息
+![无线网卡信息](https://github.com/zxyboy/i9-10850K-Z490-AORUS-PRO-AX/blob/main/images/Wifi.png)
+## 声卡信息
+![声卡信息](https://github.com/zxyboy/i9-10850K-Z490-AORUS-PRO-AX/blob/main/images/audio.png)
+## 显卡信息
+![显卡信息](https://github.com/zxyboy/i9-10850K-Z490-AORUS-PRO-AX/blob/main/images/graphics.png)
+## USB信息
+![USB信息](https://github.com/zxyboy/i9-10850K-Z490-AORUS-PRO-AX/blob/main/images/USB.png)
+## NVMe固态信息
+![固态](https://github.com/zxyboy/i9-10850K-Z490-AORUS-PRO-AX/blob/main/images/ssd.png)
+## 蓝牙信息
+![蓝牙](https://github.com/zxyboy/i9-10850K-Z490-AORUS-PRO-AX/blob/main/images/Bluetooth.png)
 
 
 
