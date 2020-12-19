@@ -31,6 +31,12 @@
 # 黑苹果那些功能不能使用
 - 无
 
+# 特别感谢
+- [shagua517/Gigabyte-Z490-AORUS-Pro-AX-10900k-5700xt-OpenCore](https://github.com/shagua517/Gigabyte-Z490-AORUS-Pro-AX-10900k-5700xt-OpenCore)
+- [OpenCore网站指导](https://dortania.github.io/OpenCore-Install-Guide/)
+- [SchmockLord/Hackintosh-Intel-i9-10900k-Gigabyte-Z490-Vision-D)](https://github.com/SchmockLord/Hackintosh-Intel-i9-10900k-Gigabyte-Z490-Vision-D)
+- [tonymacx86](https://www.tonymacx86.com/threads/success-asus-rog-strix-z490-e-gaming-i9-10900k-opencore.299137/)
+
 # 一些截图
 
 ## 系统信息
