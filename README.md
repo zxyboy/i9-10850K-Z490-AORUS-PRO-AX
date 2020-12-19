@@ -17,7 +17,7 @@
 - 机箱：[酷冷至尊(CoolerMaster)MB520(旋风520）台式电脑中塔机箱(ATX主板/前镜面板/玻璃侧板/独立电源仓)](https://item.jd.com/100000154107.html)
 - 键盘：[ikbc W200 机械键盘 2.4G无线 游戏键盘 87键 cherry轴 樱桃轴 无线机械键盘 黑色 红轴](https://item.jd.com/100006367830.html)
 - 鼠标：[Apple Magic Mouse/妙控鼠标 2代 - 银色 适用MacBook 无线鼠标](https://item.jd.com/2187061.html)
-# OpenCore引导
+# OpenCore 0.63引导
 - 机型：iMac20,2
 - 系统：Big Sur 11.01 
 
