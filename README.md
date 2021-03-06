@@ -46,7 +46,7 @@
 - [OpenCore网站指导](https://dortania.github.io/OpenCore-Install-Guide/)
 - [SchmockLord/Hackintosh-Intel-i9-10900k-Gigabyte-Z490-Vision-D)](https://github.com/SchmockLord/Hackintosh-Intel-i9-10900k-Gigabyte-Z490-Vision-D)
 - [tonymacx86](https://www.tonymacx86.com/threads/success-asus-rog-strix-z490-e-gaming-i9-10900k-opencore.299137/)
-
+- [5T33Z0](https://github.com/5T33Z0/Gigabyte-Z490-Vision-G-Hackintosh-OpenCore)
 # 一些截图
 
 ## 系统信息
