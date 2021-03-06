@@ -35,9 +35,11 @@
 - 无
 
 # 怎么使用？
-1 下载EFI文件
-2 修改3码，具体参考下面：
-
+- 下载EFI文件
+- 修改3码，具体参考: 这里(https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html#platforminfo)
+- bios中一定要禁用：CFG Lock 这个选项，否则可能不能启动
+- 将EFI拷贝到你U盘启动的EFI分区，启动安装系统
+- 安装完成，将U盘中的EFI文件夹拷贝到你硬盘的EFI分区去中，大功告成！
 
 # 特别感谢
 - [shagua517/Gigabyte-Z490-AORUS-Pro-AX-10900k-5700xt-OpenCore](https://github.com/shagua517/Gigabyte-Z490-AORUS-Pro-AX-10900k-5700xt-OpenCore)
