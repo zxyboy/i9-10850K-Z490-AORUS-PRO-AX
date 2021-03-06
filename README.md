@@ -34,6 +34,11 @@
 # 黑苹果那些功能不能使用
 - 无
 
+# 怎么使用？
+1 下载EFI文件
+2 修改3码，具体参考下面：
+
+
 # 特别感谢
 - [shagua517/Gigabyte-Z490-AORUS-Pro-AX-10900k-5700xt-OpenCore](https://github.com/shagua517/Gigabyte-Z490-AORUS-Pro-AX-10900k-5700xt-OpenCore)
 - [OpenCore网站指导](https://dortania.github.io/OpenCore-Install-Guide/)
